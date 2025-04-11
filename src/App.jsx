@@ -18,7 +18,10 @@ function App(){
       <button
       className="botao"
       onClick={()=>{alert(nome)}}
+
+      
       >
+
       clique aqui
 
       </button>
